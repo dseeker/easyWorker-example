@@ -1,0 +1,55 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="960" height="640" frameRate="60" currentTimeline="1" xflVersion="2.97" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 19.0 build 326" majorVersion="19" buildNumber="326" viewAngle3D="92.3090013472118" vanishingPoint3DX="480" vanishingPoint3DY="320" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="25BEAB33D79B2D4A818CA106642D342B">
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <persistentData>
+          <PD n="com.air.artemis.airdest" v="Main.apk"/>
+          <PD n="ane.tmp.unzipped.folder" v="C:\Users\dan\AppData\Local\Temp\Tmp_ANE_File_Unzipped_Packages"/>
+          <PD n="com.air.oldTargetPlatform" v="Android"/>
+          <PD n="DebugMovieChecked" v="OnDevice"/>
+          <PD n="com.air.sdk.path" v="C:\Program Files\Adobe\Adobe Animate CC 2017\AIR31"/>
+          <PD n="com.air.artemis.pubair" v="true"/>
+          <PD n="com.air.agistri.proctype" v="arm"/>
+          <PD n="com.air.artemis.pubipa" v="false"/>
+          <PD n="flash.swf.basename" v="Main"/>
+          <PD n="com.air.agistri.runtimetype" v="embed"/>
+          <PD n="com.air.agistri.publishtype" v="debug"/>
+          <PD n="com.air.agistri.hostip" v="Default"/>
+          <PD n="flash.fla.filepath" v="E:/Dados/Code/_libraries/easyWorker-PureAS3/test/Main.fla"/>
+          <PD n="swf.folder.path" v="E:/Dados/Code/_libraries/easyWorker-PureAS3/test/"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="206046" publishTime="1545087547"/>
+          <PublishItem publishSize="206050" publishTime="1545087407" publishDebug="true"/>
+          <PublishItem publishSize="205996" publishTime="1545087191" publishDebug="true"/>
+          <PublishItem publishSize="205996" publishTime="1545087144"/>
+          <PublishItem publishSize="205940" publishTime="1545087092"/>
+          <PublishItem publishSize="86" publishTime="1545087076"/>
+          <PublishItem publishSize="86" publishTime="1545087030"/>
+          <PublishItem publishSize="86" publishTime="1545086999"/>
+          <PublishItem publishSize="86" publishTime="1545086982"/>
+          <PublishItem publishSize="205946" publishTime="1545086820"/>
+          <PublishItem publishSize="205965" publishTime="1545086640"/>
+          <PublishItem publishSize="86" publishTime="1545086589"/>
+          <PublishItem publishSize="205927" publishTime="1545086508"/>
+          <PublishItem publishSize="205928" publishTime="1545086254"/>
+          <PublishItem publishSize="205991" publishTime="1545086172"/>
+          <PublishItem publishSize="206030" publishTime="1545086098"/>
+          <PublishItem publishSize="86" publishTime="1545086000"/>
+          <PublishItem publishSize="205931" publishTime="1545085976"/>
+          <PublishItem publishSize="205929" publishTime="1545085933"/>
+          <PublishItem publishSize="205921" publishTime="1545085912"/>
+     </publishHistory>
+</DOMDocument>
